@@ -9,10 +9,6 @@ yarn-error.log
 # Hassas bilgileri (API anahtarları, şifreler vb.) içerdiği için git'e GÖNDERİLMEZ.
 .env
 
-# Çıktı Dosyaları
-# Görsel üretim scriptinizin oluşturduğu final görselleri
-# (Bunlar genellikle çok büyük olur ve git geçmişini şişirir.)
-output/
 
 # Editör/Sistem Dosyaları (İsteğe Bağlı)
 .DS_Store   # macOS sistem dosyaları
