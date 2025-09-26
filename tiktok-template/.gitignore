@@ -1,0 +1,20 @@
+# Node.js Klasörleri ve Dosyaları
+# Bağımlılık klasörü (npm install ile yüklenir)
+node_modules/
+# Node.js logları
+npm-debug.log
+yarn-error.log
+
+# Ortam Değişkenleri
+# Hassas bilgileri (API anahtarları, şifreler vb.) içerdiği için git'e GÖNDERİLMEZ.
+.env
+
+# Çıktı Dosyaları
+# Görsel üretim scriptinizin oluşturduğu final görselleri
+# (Bunlar genellikle çok büyük olur ve git geçmişini şişirir.)
+output/
+
+# Editör/Sistem Dosyaları (İsteğe Bağlı)
+.DS_Store   # macOS sistem dosyaları
+*.sublime-project
+*.vscode/   # VS Code ayarları
